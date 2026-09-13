@@ -13,9 +13,9 @@ from sentence_transformers import SentenceTransformer
 # CONFIGURATION
 # ============================================================
 
-CASES_FILE = "data/processed/apple_support_cases.csv"
+CASES_FILE = "data/processed/apple_support_cases_demo.csv"
 
-INDEX_FILE = "data/processed/apple_support.faiss"
+INDEX_FILE = "data/processed/apple_support_demo.faiss"
 
 OLLAMA_URL = "http://localhost:11434/api/generate"
 

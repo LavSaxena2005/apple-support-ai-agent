@@ -24,3 +24,18 @@ evaluation/results/*
 # OS
 .DS_Store
 Thumbs.db
+data/processed/apple_support.csv
+data/processed/apple_support.faiss
+data/processed/apple_support_cases_eval_safe.csv
+data/processed/apple_support_eval_safe.faiss
+data/processed/apple_support_sample_500.csv
+data/processed/apple_support_training_5000.csv
+data/processed/apple_support_training_labeled.csv
+data/processed/apple_support_cases_demo.csv
+data/processed/apple_support_demo.faiss
+app/app.py
+src/
+requirements.txt
+README.md
+DECISIONS.md
+evaluation/
