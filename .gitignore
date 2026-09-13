@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# Data
+data/raw/*.csv
+data/raw/*.zip
+data/processed/*.csv
+*.parquet
+
+# Vector indexes
+*.faiss
+*.index
+
+# Experiment outputs
+evaluation/results/*
+!evaluation/results/.gitkeep
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db

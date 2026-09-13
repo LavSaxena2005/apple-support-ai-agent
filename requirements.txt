@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+sentence-transformers
+faiss-cpu
+python-dotenv
+pydantic
+openai
+streamlit
+pytest
+matplotlib
+seaborn
